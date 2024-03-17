@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dico/static/css/main.e6c13ad2.css",
+    "main.js": "/dico/static/js/main.f8ebfe50.js",
+    "static/js/453.06a294ce.chunk.js": "/dico/static/js/453.06a294ce.chunk.js",
+    "index.html": "/dico/index.html",
+    "main.e6c13ad2.css.map": "/dico/static/css/main.e6c13ad2.css.map",
+    "main.f8ebfe50.js.map": "/dico/static/js/main.f8ebfe50.js.map",
+    "453.06a294ce.chunk.js.map": "/dico/static/js/453.06a294ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f8ebfe50.js"
+  ]
+}
